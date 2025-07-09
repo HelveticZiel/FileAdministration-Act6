@@ -1,11 +1,11 @@
 
-package Funciones;
+package funciones;
 
 import java.util.Arrays;
 
 /**
  *
- * @author axel.l
+ * @author helvetic
  */
 public class FuncionesClase02 {
 

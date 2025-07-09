@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author axel.l
+ * @author helvetic
  */
 public class RegisterStudent {
 

@@ -4,7 +4,7 @@ import static Libreria.Operaciones.sumar;
 
 /**
  *
- * @author axel.l
+ * @author helvetic
  */
 public class Arrays_Practica {
 

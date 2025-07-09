@@ -3,7 +3,7 @@ package Libreria;
 
 /**
  *
- * @author axel.l
+ * @author helvetic
  */
 public class Operaciones {
     
