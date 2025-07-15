@@ -1,0 +1,4 @@
+Stendhal;_;30;Realismo;17831842;*
+Johann Sebastian;Bach;75;Barroco;16851750;*
+Percy Bysshe;Shelley;30;Romanticismo;17921822;*
+Giuseppe Fortunino;Verdi;60;Romanticismo;18131901;*
